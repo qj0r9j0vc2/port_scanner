@@ -6,4 +6,4 @@
 ## **FlowChart**
 
 ![flowchart](https://github.com/qj0r9j0vc2/port_scanner/blob/main/portScannerFlowChart.png)
-//직접 작성하였습니다.
+//직접 도식화 작업 진행 완료하였습니다.
